@@ -1,0 +1,10 @@
+{
+  "bot_name": "8-Bit Oracle",
+  "commands": {
+    "divine": "Generate hexagram reading",
+    "interpret": "Interpret hexagram",
+    "learn": "Access educational content"
+  },
+  "response_types": ["hexagrams", "readings", "educational"],
+  "allowed_channels": ["main", "divination"]
+}

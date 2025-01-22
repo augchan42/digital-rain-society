@@ -1,0 +1,10 @@
+{
+  "bot_name": "Pix Street Samurai",
+  "commands": {
+    "analyze": "Analyze market patterns",
+    "sentiment": "Check market sentiment",
+    "hexagram": "Generate market-focused hexagram"
+  },
+  "response_types": ["market_insights", "divination_results"],
+  "allowed_channels": ["main", "trading"]
+}
